@@ -5,7 +5,7 @@
                 <div class="col-md-12">
                     <div class="card">
                         <div class="card-body mb-5">
-                            <h3 class="mt-5 m-lg-3">Klien yang sudah mempercayai kami</h3><br>
+                            <h3 class="mt-5 m-lg-3">Klien yang belum mempercayai kami</h3><br>
                             <div class="container">
                             <div class="row">
                                 <div class="col">
