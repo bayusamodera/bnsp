@@ -7,7 +7,7 @@
 
                         <div class="card-body mb-5">
                             <h3 class="mt-5 mb-2 text-center">Awal Mula The Prediksi Terbentuk</h3><br>
-                            <h5 class="mx-5 text-bold">The Prediksi</h5>
+                            <h5 class="mx-5 text-bold">The Prediksin</h5>
                             <p style="text-indent: 45px;" class="text-justify mx-5">
                             The Prediksi adalah klub motor yang digagas oleh Andre Taulany dan Ronal Surapradja sejak tahun 2018, 
                             beranggotakan selebritas dan figur publik Indonesia sebagai sarana hiburan semata dan ajang silaturahmi. 
