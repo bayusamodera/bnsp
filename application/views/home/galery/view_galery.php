@@ -6,7 +6,7 @@
                     <div class="card">
                         <div class="card-body">
                             <div class="badan">                     
-                            <h3 class="mt-5 mb-2 text-center">Isi Galery The Prediksi</h3><br>
+                            <h3 class="mt-5 mb-2 text-center">Isinya Galery The Prediksi</h3><br>
                             <p style="text-indent: 45px;" class="text-justify">
                               The Prediksi merupakan klub motor artis yang dipimpin oleh komedian Andre Taulany. Beberapa artis ternama pun turut menjadi anggotanya, mulai dari Vincent Rompies, Tora Sudiro, Desta, Gading Marten, hingga Soleh Solihun.
                               Beragam kegiatan seru telah dilakukan oleh mereka, baik itu motoran ke luar kota atau di dalam kota. Yang terbaru klub motor ini baru saja motoran di dalam kota. Momen serunya pun diunggah di akun media sosial @theprediksi_.
